@@ -1,2 +1,3 @@
 I am making a change in example.txt
 I am making another change right here
+
